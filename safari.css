@@ -1,0 +1,39 @@
+@media screen and (-webkit-min-device-pixel-ratio:0){
+  .admin-functions ul.actions ul { 
+    margin-bottom:0; 
+  }
+
+  #search .searchfield {
+    padding: 5px;
+  }
+  
+  .form-actions ul.progressradios li input{
+    position:relative;
+    top:-1px;
+  }
+  
+  ul.gridchecks li label input{
+    top:0;
+  }
+  
+  ul.checkboxlist li span{
+    top:0;
+  }
+  
+  .gbutton {
+    padding: 6px 12px;
+  }
+  
+  .inline-form dl.form .gbutton {
+    float: none;
+    display: inline-block;
+  }
+
+  .inline-form dl.form.fbtns {
+    padding-bottom: 19px;
+  }
+  
+  .inline-form dl.form .gbutton {
+    padding: 6px 12px;
+  }
+}
